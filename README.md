@@ -7,53 +7,40 @@ https://cursos.alura.com.br/course/react-function-components
 
 
 ### Conteudo Abordado do curso
- * Como criar um Funcition Component e quais suas as diferenças dele com um Class Component
 
- * Instalando pacotes via NPM no nosso projeto
+ * Boas práticas de UX ao trabalharmos com formulários
 
- * Vantagens de se usar o MaterialUI
+ * Por que separar um formulário em muitas partes
 
- * Por que usar um design system pronto facilita nossa vida
+ * O que aprendemos nessa aula:
 
- * Como se encontrar na documentação do Material UI
+ * Limitações do JSX com switchs
 
- * Como utilizar diversos componentes com o MaterialUI
+ * Chamando funções dentro do JSX
 
- * Mais propriedades do TextField
+ * Relembrando closures e escopos
 
- * Como utilizar um container para ajudar a posição dos elementos
+ * vantagens da injeção de dependências dentro do projeto
 
- * Utilizando elementos de tipografia
+ * Reutilização de componentes
 
- * MaterialUI Switchs e FormLabelControl
+ * Refatoração do Switch case e melhores estruturas de código 
 
- * O que é um formulário não controlado
+ * Como lidar com problemas de assincronicidade
 
- * Problemas com mais de uma fonte de verdade
+ * Quando usar o Hook de UseEffect
 
- * Hooks e o useState
+ * Ciclo de vida dos componentes funcionais
 
- * Desconstrução de Arrays
+ * Como utilizar o componente Stepper do MaterialUI
 
- * Assincronicidade da função de atribuição do estado
- 
- * Quais são as Regras de utilização dos Hooks
+ * Extraindo lógica da parte de renderização
 
- * Propriedade checked para Switchs
+ * Boas práticas na reutilização de funcionalidades
 
- * Criando mais estados e a maneira de trabalhar com eles em function components
+ * Usando contextos no React para resolver o problema de prop drilling
 
- * Como receber propriedades em um componente de função
-
- * Desconstrução de Objetos no JS
-
- * Propriedade erro do TextField e HelperText dentro de inputs do MaterialUI
-
- * Usando o estado para controla a exibição de erros
-
- * Recebendo validação de maneira externa
-
- * Como deixar os componentes mais reutilizáveis
+ * Problemas de informações demais e complexidade de código
 
 
 
