@@ -41,7 +41,14 @@ https://cursos.alura.com.br/course/react-function-components
  * Usando contextos no React para resolver o problema de prop drilling
 
  * Problemas de informações demais e complexidade de código
+ 
+ * Como usar valore padrão dentro de um contexto
 
+ * Porque precisamos de Providers e quais suas vantagens
+
+ * Como criar Hooks Customizados e quais são suas regras
+
+ * Como compartilhar código entre componentes de maneira apropriada
 
 
 
